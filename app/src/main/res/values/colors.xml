@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo_claro">#FFFFFF</color>
+    <color name="texto_claro">#1A1A1A</color>
+    <color name="fundo_sepia">#F4ECD8</color>
+    <color name="texto_sepia">#5B4636</color>
+    <color name="fundo_escuro">#121212</color>
+    <color name="texto_escuro">#E0E0E0</color>
+</resources>

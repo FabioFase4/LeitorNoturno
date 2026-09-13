@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeitorNoturno</string>
+    <string name="status_inicial">Aguardando leitura dos sensores…</string>
+    <string name="status_formato">Lux: %1$.1f  |  Tema: %2$s  |  Brilho: %3$d%%</string>
+    <string name="sensores_indisponiveis">Sensor de luz e/ou proximidade indisponível neste dispositivo</string>
+    <string name="tema_claro">Claro</string>
+    <string name="tema_sepia">Sépia</string>
+    <string name="tema_escuro">Escuro</string>
+    <string name="leitura_pausada">Leitura pausada\nDispositivo guardado ou virado para baixo</string>
+    <string name="texto_exemplo">Capítulo 1 — O Farol Silencioso. A vila dormia sob um céu carregado de estrelas quando Marina decidiu caminhar até o velho farol na ponta do cais. O vento trazia o cheiro de sal e madeira molhada. Ela sempre gostou de ler à noite, envolta pelo silêncio das horas tardias. O farol, apagado há tanto tempo, ainda guardava algo de mágico em sua estrutura desgastada. Marina se sentou nos degraus de pedra e observou o horizonte, onde o mar se confundia com o céu. Foi então que percebeu: talvez não precisasse de luz nenhuma para enxergar o caminho.</string>
+</resources>
